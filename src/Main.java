@@ -39,7 +39,7 @@ public class Main {
 
     private static void showMenu() {
         while (true) {
-            System.out.println("\n=== Система заказов пиццы ===");
+            System.out.println("\n=== Система заказов пиццерии ===");
             System.out.println("1. Показать все пиццы");
             System.out.println("2. Фильтрация пицц по размеру");
             System.out.println("3. Создать заказ");
