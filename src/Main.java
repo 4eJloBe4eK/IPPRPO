@@ -176,7 +176,7 @@ public class Main {
 
         int choice = readInt();
         if (choice < 1 || choice > clients.size()) {
-            System.out.println("Ошибка.");
+            System.out.println("Неверный выбор.");
             return;
         }
 
