@@ -176,11 +176,7 @@ public class Main {
 
         int choice = readInt();
         if (choice < 1 || choice > clients.size()) {
-<<<<<<< HEAD
             System.out.println("Ошибка выбора.");
-=======
-            System.out.println("Ошибка выбора.");
->>>>>>> conflict
             return;
         }
 
